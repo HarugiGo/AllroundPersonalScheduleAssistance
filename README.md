@@ -1,5 +1,5 @@
-# AllroundPersonalScheduleAssistance
-APSA is a browser-based task management and time tracking system built with vanilla JavaScript. It features a hierarchical task tree, recurring task reset, progress tracking, scheduling, a precision timer, and a gamified XP system. It includes Kanban, daily review, and analytics modules.
+# APSA - All-Around Personal Schedule Assistant
+
 ## 项目简介
 
 APSA（全方位个人日程助手）是一款功能完善的个人任务管理与时间追踪系统。系统采用任务树架构，支持复杂项目的任务分解、依赖管理和分类标签。核心功能包括日常任务自动重置、普通任务进度追踪、日程与事件管理、精确计时器、游戏化经验值激励系统等。系统提供看板、管理、复盘三大模块，其中复盘模块包含365天日历视图的每日复盘功能，支持记录每日进展和评分，并通过颜色编码直观展示整年表现。系统支持文件系统存储和LocalStorage双重存储方式，确保数据安全可靠。此外还包含中期目标管理、留言板、能力雷达图、时间统计等辅助功能，帮助用户全面掌握个人时间管理和任务执行情况。系统采用原生JavaScript开发，无需后端服务器，可直接在浏览器中运行。
@@ -158,3 +158,11 @@ Evolution2.0/
 - ✅ 任务树复盘功能
 - ✅ 任务树历史模块
 - ✅ 数据迁移工具
+
+## 许可证
+
+MIT License
+
+
+
+

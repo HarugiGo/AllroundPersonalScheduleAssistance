@@ -1,0 +1,51 @@
+[
+  {
+    "id": "mm35qqm9ao0shxf29bq",
+    "title": "这是一个任务树",
+    "description": "你可以在这里添加你想要添加的子任务",
+    "link": "",
+    "status": "in-progress",
+    "createdAt": "2026-02-26T07:44:25.665Z",
+    "completedAt": null,
+    "review": null,
+    "rating": null,
+    "subtasks": [
+      {
+        "id": "mm35raqo6ntfp9zy66a",
+        "title": "子任务1",
+        "description": "这是一个子任务",
+        "type": "daily",
+        "status": "pending",
+        "deadline": null,
+        "link": "",
+        "progress": 0,
+        "dependencies": [],
+        "tag": null,
+        "estimatedTime": 6.5,
+        "order": 0,
+        "repeatType": "daily",
+        "repeatDays": [],
+        "createdAt": "2026-02-26T07:44:51.744Z",
+        "completedAt": null
+      },
+      {
+        "id": "mm35ryxz4qch1vubasi",
+        "title": "子任务2",
+        "description": "这是另外一个子任务",
+        "type": "normal",
+        "status": "pending",
+        "deadline": "2026-02-26T23:00:00.000Z",
+        "link": "",
+        "progress": 0,
+        "dependencies": [],
+        "tag": null,
+        "estimatedTime": null,
+        "order": 1,
+        "repeatType": null,
+        "repeatDays": [],
+        "createdAt": "2026-02-26T07:45:23.111Z",
+        "completedAt": null
+      }
+    ]
+  }
+]
